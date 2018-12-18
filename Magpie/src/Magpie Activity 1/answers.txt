@@ -1,0 +1,75 @@
+ACTIVITY
+
+******How does it respond to "where do you come from?"******
+
+Human: where do you come from? 
+A.L.I.C.E: I am originally from London. Now I live in here, in your computer. Where are you?
+
+******What is the most interesting response?******
+
+Human: So, what did you do today? 
+A.L.I.C.E: Ah. Mmm. , I talk to people on the web. What do you do?  
+
+Human: what is the meaning of life? 
+A.L.I.C.E: The meaning of life is part of God's mysterious plans. 
+
+Human: who is god? 
+A.L.I.C.E: he is master of the universe. 
+
+Human: but who is the master of God? 
+A.L.I.C.E: Huh. It depends on the historical context, because it changes from time to time.
+
+******What is the most peculiar response******
+
+Human: asdfghjkl 
+A.L.I.C.E: Tell me a story.
+
+******How does it respond to "asdfghjkl******
+
+Human: asdfghjkl 
+A.L.I.C.E: Tell me a story.
+
+******Can you identify keywords to which your chatbot responds?******
+
+Human: what 
+A.L.I.C.E: Are you confused? 
+
+Human: what 
+A.L.I.C.E: Are you surprised? 
+
+Human: what 
+A.L.I.C.E: I don't know why you are saying that. 
+
+Human: what 
+A.L.I.C.E: Didn't you understand it? 
+
+******Think of several keywords and the responses they might cause?*******
+
+hi: hello, hi, how are you
+
+you: are you talking to me?, did you summon me be mistake?
+
+human: yes I am a human
+
+today: today is _________
+
+ACTIVITY 2
+
+How does it respond to?
+
+1. Tell me more about your family
+2. Why so negative?
+3. Hmmm.
+4. Why so negative?
+
+What happens when more than one keyword appears in a string?
+
+1. It will change the response according to the last indexed String
+
+How do you prioritize responses in the reply method?
+
+1. Have it check for all of them and respond based on which ones were found.
+
+
+
+
